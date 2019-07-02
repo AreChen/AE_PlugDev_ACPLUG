@@ -1,0 +1,4 @@
+﻿  ACPlug.cpp
+f:\ae_project\dev\aftereffectssdk\examples\headers\pr_public.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 x64\Release\/ACPlug.lib 和对象 x64\Release\/ACPlug.exp
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Plug-ins\AC.Plug\ACPlug.aex
